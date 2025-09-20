@@ -3,8 +3,7 @@
 INSTALL THE REQUIRED LIBRARIES:
 pip install streamlit transformers faiss-cpu torch pandas torchvision
 
-Once the libraries have been installed,
-python load_demo.py
+Once the libraries have been installed run "python load_demo.py",
 
 This will download the images and its captions and save it in data folder.
 
